@@ -76,7 +76,7 @@
 - [vuejs-dialog](https://godofbrowser.github.io/vuejs-dialog/)
 - [vue-window](https://michitaro.github.io/vue-window/?Sample7)
 
-### 1.7 滚动视差效果**
+### 1.7 滚动视差效果
 
 - [vue-parallax](https://vue-comps.github.io/vue-parallax/#/basic)
 - [vue-parallax2](https://apertureless.github.io/vue-parallax/)
